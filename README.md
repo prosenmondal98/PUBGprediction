@@ -1,4 +1,4 @@
-# <center>PUBG Win Percentage Prediction</center>
+# PUBG Win Percentage Prediction
 ### Overview:
 This project revolves around the popular online multiplayer battle royale game - PlayerUnknown's Battlegrounds (PUBG). The main objective is to analyze game data, understand player behavior, and predict the win percentage of players based on their game stats.
 
